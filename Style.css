@@ -1,0 +1,23 @@
+.Foto img{
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.Deskripsi h1{
+    font-size: 30px;    
+}
+.Deskripsi s{
+    color: red;
+}
+.Deskripsi h2{
+    font-size: 25px;
+    font-weight: 300;
+}
+.Deskripsi p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.Deskripsi a{
+    font-size: 25px;
+}
